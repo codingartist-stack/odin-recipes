@@ -1,0 +1,13 @@
+background-color {
+    color: #F7E2D6;
+}
+h1 {
+    text-align: center;
+}
+footer {
+    background-color: #DFBB9D;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
