@@ -1,19 +1,31 @@
 body {
-    background-color: #F0E9D2;
+background-color: white;
 }
+header {
+    background-color: #E28F83;
+    position: relative;
+    margin: auto;
+    top: 0;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+}
+
 h1 {
     text-align: center;
-    color: #181D31;
 }
 
 p{
     text-align: center;
 }
-img{
-    
+
+img {
+    border-radius: 15px;
+
 }
+
 footer {
-    background-color: #678983;
+    background-color: #E28F83;
     color: white;
     position: relative;
     margin: auto;
@@ -23,4 +35,8 @@ footer {
     padding: 20px;
     text-align: center;
     
+}
+
+#homepagefooter {
+    position: fixed;
 }
