@@ -2,13 +2,34 @@ body {
 background-color: white;
 }
 header {
-    background-color: #E28F83;
+    background-color: #285430;
+    color: white;
     position: relative;
     margin: auto;
     top: 0;
     width: 100%;
     padding: 20px;
     text-align: center;
+}
+
+#homepage-menu {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #A4BE7B;
+    
+}
+
+.inlinehomepage {
+    float: left;
+    
+}
+
+.inlinehomepage a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
 }
 
 h1 {
@@ -25,7 +46,7 @@ img {
 }
 
 footer {
-    background-color: #E28F83;
+    background-color: #285430;
     color: white;
     position: relative;
     margin: auto;
@@ -40,3 +61,5 @@ footer {
 #homepagefooter {
     position: fixed;
 }
+
+
