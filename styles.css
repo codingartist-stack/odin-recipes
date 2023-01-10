@@ -26,6 +26,7 @@ header {
     display: inline-block;
     background-color: #A4BE7B;
     border-radius: 15px;
+    margin: 20px;
 }
 
 .home-menu {
