@@ -14,11 +14,15 @@ header {
     text-align: center;
 }
 
-#homepage-menu {
+.recipes-list {
     list-style-type: none;
     overflow: hidden;
     
     
+}
+
+.recipes-list li {
+    padding: 10px;
 }
 
 .home-menu {
