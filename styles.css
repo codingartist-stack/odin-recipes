@@ -23,6 +23,9 @@ header {
 
 .recipes-list li {
     padding: 10px;
+    display: inline-block;
+    background-color: #A4BE7B;
+    border-radius: 15px;
 }
 
 .home-menu {
@@ -43,7 +46,7 @@ img {
 }
 
 a:hover {
-    background-color: #A4BE7B;
+    background-color: #4a5b30;
 }
 
 footer {
@@ -59,8 +62,8 @@ footer {
     
 }
 
-/* #homepagefooter {
+ #homepagefooter {
     position: fixed;
-} */
+} 
 
 
