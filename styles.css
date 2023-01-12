@@ -24,6 +24,7 @@ header {
 .recipes-list li {
     padding: 10px;
     display: inline-block;
+    justify-content: center;
     background-color: #A4BE7B;
     border-radius: 15px;
     margin: 20px;
